@@ -1,7 +1,7 @@
 ![Excella Logo](RawResources/ExcellaLogoBig.png)
 
 #Excella Careers
-Excella Careers is cross platform mobile application that displays the current career opportunities with Excella Consulting and offers the ability to share links to those opportunities via email, SMS, social media, etc. Excella Careers is supported by **iPhone** and **Android**.
+Excella Careers is a cross platform mobile application that displays the current career opportunities with Excella Consulting and offers the ability to share links to those opportunities via email, SMS, social media, etc. Excella Careers is supported by **iPhone** and **Android**.
 
 ##Technical Details
 Excella Careers is written in **C#** and leverages **Xamarin** to support a cross-platform solution. The solution is divided into four distinct projects.
